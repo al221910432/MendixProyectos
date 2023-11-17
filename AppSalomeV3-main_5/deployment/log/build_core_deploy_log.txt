@@ -1,0 +1,11 @@
+Buildfile: C:\Users\al221\Documents\Mendix\AppSalomeV3-main_5\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 51 files to C:\Users\al221\Documents\Mendix\AppSalomeV3-main_5\deployment
+     [copy] Copying 40 files to C:\Users\al221\Documents\Mendix\AppSalomeV3-main_5\deployment\model\lib\userlib
+     [copy] Copying 8 files to C:\Users\al221\Documents\Mendix\AppSalomeV3-main_5\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+

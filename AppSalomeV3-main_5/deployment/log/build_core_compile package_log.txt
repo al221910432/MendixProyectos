@@ -1,0 +1,16 @@
+Buildfile: C:\Users\al221\Documents\Mendix\AppSalomeV3-main_5\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 105 source files to C:\Users\al221\Documents\Mendix\AppSalomeV3-main_5\deployment\run\bin
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+package:
+      [jar] Building jar: C:\Users\al221\Documents\Mendix\AppSalomeV3-main_5\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 8 seconds
+
+
